@@ -1,0 +1,20 @@
+{
+  "name": "calltobar",
+  "version": "1.0.0",
+  "description": "Micro-blogging platform and Directory for law firms.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvisduru/calltobar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elvisduru/calltobar/issues"
+  },
+  "homepage": "https://github.com/elvisduru/calltobar#readme"
+}
